@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayushpro0
-- 👀 I’m interested in Computers and tech in general both sorftware and hardware.
+- 👀 I’m interested in Computers and tech in general both software and hardware.
 - 🌱 I’m currently pursuing CS Engineering.
 
 <!---
