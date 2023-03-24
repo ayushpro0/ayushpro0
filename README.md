@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Ayush - aka @ayushpro0
-- 🌱 I’m currently pursuing CS Engineering.
-- 👀 I’m interested in Computers and tech in general both software and hardware.
-- 🖋️ I also do artwork freelancing.
+- 🎓 Fourth-year Computer Science Engineering student
+- 💻 Passionate about coding, graphic designing, and development
+- 🌟 Constantly exploring new technologies
+- 🌎 Believes in the power of technology to make a positive impact on society
+- 📷 Enjoys photography and watching web series in free time
+- 🚀 Excited to start a career in the technology industry
 
 
